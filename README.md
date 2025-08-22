@@ -4,7 +4,6 @@ A modern, fully responsive **Portfolio Website** built with **React + Tailwind C
 It showcases my projects, skills, and experience with a clean design and smooth UI/UX.  
 
 ## ✨ Features  
-
 - 🎨 **Modern UI/UX** – Built using React + Tailwind CSS.  
 - 📱 **Fully Responsive** – Works perfectly on Desktop, Tablet, and Mobile.  
 - 🌙 **Dark/Light Mode** toggle.  
@@ -13,37 +12,18 @@ It showcases my projects, skills, and experience with a clean design and smooth 
 - 📩 **Contact Form** to reach me directly via email.  
 
 ## 📷 Screenshots  
-
-### Home Page  
 ![Home Screenshot](./screenshots/home.png)  
-
-### Projects Section  
 ![Projects Screenshot](./screenshots/projects.png)  
 
----
-
 ## 🛠️ Tech Stack  
-
 - **React.js** ⚛️  
 - **Tailwind CSS** 🎨  
 - **Lucide Icons / Heroicons**  
 - **EmailJS / Formspree** (for contact form)  
 
----
-
 ## 📦 Installation  
-
-Clone the repo and run locally:  
-
 ```bash
-# Clone the repo
-git clone https://github.com/your-username/your-portfolio.git
-
-# Navigate into the folder
-cd your-portfolio
-
-# Install dependencies
+git clone https://github.com/himanshu/beautiful-react-tailwind-portfolio.git
+cd beautiful-react-tailwind-portfolio
 npm install
-
-# Run development server
 npm run dev
